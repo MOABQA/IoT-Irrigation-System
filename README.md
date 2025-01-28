@@ -1,4 +1,4 @@
-# **ESP32 Automated Irrigation System**
+# **ESP32 Automated Irrigation System** 😎
 
 ## Overview
 
